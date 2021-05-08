@@ -12,7 +12,7 @@ Same goes with credit.txt in the file there is another txt (yourcreds.txt) put a
 Warning!:This is for Fun and i am not responsible for any working codes that get your account BANNED! Nor am i responsible for what you do with the things you generate This is just something i wanted to make to laugh about Thank you!
 
 
-#Donate if you like!
+Donate if you like!
 
 
 BTC:bc1q5atfh93dhlv8t6fd9676xd0dp6qup953nkpq0w
